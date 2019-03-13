@@ -1,0 +1,393 @@
+[
+  {
+    "subjectName": "বাংলা (আবশ্যিক) ১ম পত্র",
+    "subjectCode": "কোডঃ১০১",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০২/০২/২০১৯, শনিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "সহজ বাংলা ১ম পত্র",
+    "subjectCode": "কোডঃ১০৩",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০২/০২/২০১৯, শনিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "বাংলা ভাষা ও বাংলাদেশের সংস্কৃতি ১ম পত্র",
+    "subjectCode": "কোডঃ১০৫",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০২/০২/২০১৯, শনিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "বাংলা (আবশ্যিক) ২য় পত্র",
+    "subjectCode": "কোডঃ১০২",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০৩/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "সহজ বাংলা ২য় পত্র",
+    "subjectCode": "কোডঃ১০৪",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০৩/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "বাংলা ভাষা ও বাংলাদেশের সংস্কৃতি ২য় পত্র",
+    "subjectCode": "কোডঃ১০৬",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০৩/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধূলা (অনিয়মিত পরীক্ষার্থীদের জন্য)",
+    "subjectCode": "কোডঃ১৪৭",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০৪/০২/২০১৯, সোমবার",
+    "category4": "irregular",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "ইংরেজি - ১ম পত্র (আবশ্যিক)",
+    "subjectCode": "কোডঃ১০৭",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০৫/০২/২০১৯, মঙ্গলবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "ইংরেজি - ২য় পত্র (আবশ্যিক)",
+    "subjectCode": "কোডঃ১০৮",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "০৭/০২/২০১৯, বৃহস্পতিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "গণিত (আবশ্যিক)",
+    "subjectCode": "কোডঃ১০৯",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "৯/০২/২০১৯, শনিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "ইসলাম ও নৈতিক শিক্ষা",
+    "subjectCode": "কোডঃ১১১",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১১/০২/২০১৯,সোমবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+    "subjectCode": "কোডঃ১১২",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১১/০২/২০১৯,সোমবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "বৌদ্ধ ধর্ম ও নৈতিক শিক্ষা",
+    "subjectCode": "কোডঃ১১৩",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১১/০২/২০১৯,সোমবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "খ্রিষ্ট ধর্ম ও নৈতিক শিক্ষা",
+    "subjectCode": "কোডঃ১১৪",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১১/০২/২০১৯,সোমবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "subjectCode": "কোডঃ১৫৪",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১২/০২/২০১৯, মঙ্গলবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " ক্যারিয়ার শিক্ষা (অনিয়মিত পরীক্ষার্থীদের জন্য)",
+    "subjectCode": "কোডঃ১৫৬",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৩/০২/২০১৯, বুধবার",
+    "category4": "irregular",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "পদার্থ বিজ্ঞান (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৩৬",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৪/০২/২০১৯, বৃহস্পতিবার",
+    "category1": "science",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "ফিন্যান্স ও ব্যাংকিং",
+    "subjectCode": "কোডঃ১৫২",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৪/০২/২০১৯, বৃহস্পতিবার",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+    "subjectCode": "কোডঃ১৫৩",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৪/০২/২০১৯, বৃহস্পতিবার",
+    "category2": "arts",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "রসায়ন (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৩৭",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৬/০২/২০১৯, শনিবার",
+    "category1": "science",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "পৌরনীতি ও নাগরিকতা",
+    "subjectCode": "কোডঃ১৪০",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৬/০২/২০১৯, শনিবার",
+    "category2": "arts",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "ব্যবসায় উদ্যোগ",
+    "subjectCode": "কোডঃ১৪৩",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৬/০২/২০১৯, শনিবার",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " বাংলা ভাষা ও সাহিত্য",
+    "subjectCode": "কোডঃ১১৯",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " ইংরেজি ভাষা ও সাহিত্য",
+    "subjectCode": "কোডঃ১২০",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " গার্হস্থ্য বিজ্ঞান (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৫১",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " কৃষি শিক্ষা (তত্ত্বীয়",
+    "subjectCode": "কোডঃ১৩৪",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " সঙ্গীত (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৪৯",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " আরবী",
+    "subjectCode": "কোডঃ১২১",
+    "time": "বিকাল ০২টা হতে বিকাল ৫টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " সংস্কৃতি",
+    "subjectCode": "কোডঃ১২৩",
+    "time": "বিকাল ০২টা হতে বিকাল ৫টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " পালি",
+    "subjectCode": "কোডঃ১২৪",
+    "time": "বিকাল ০২টা হতে বিকাল ৫টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "কর্মমূখী শিক্ষা (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৩০",
+    "time": "বিকাল ০২টা হতে বিকাল ৫টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "কম্পিউটার শিক্ষা (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৩১",
+    "time": "বিকাল ০২টা হতে বিকাল ৫টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "শারীরিক শিক্ষা ও ক্রীড়া (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৩৩",
+    "time": "বিকাল ০২টা হতে বিকাল ৫টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "বেসিক ট্রেড (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৩৫",
+    "time": "বিকাল ০২টা হতে বিকাল ৫টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " চারু ও কারুকলা (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৪৮",
+    "time": "বিকাল ০২টা হতে বিকাল ৫টা পর্যন্ত",
+    "date": "১৭/০২/২০১৯, রবিবার",
+    "category1": "science",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "জীব বিজ্ঞান (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১৩৮",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৮/০২/২০১৯, সোমবার",
+    "category1": "science",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "অর্থনীতি",
+    "subjectCode": "কোডঃ১৪১",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "১৮/০২/২০১৯, সোমবার",
+    "category1": "arts",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "বাংলাদেশ ও বিশ্ব পরিচয়",
+    "subjectCode": "কোডঃ১৫০",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "২০/০২/২০১৯, বুধবার",
+    "category1": "science",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": " বিজ্ঞান",
+    "subjectCode": "কোডঃ১২৭",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "২৩/০২/২০১৯, শনিবার",
+    "category2": "arts",
+    "category3": "commerce",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "উচ্চতর গণিত (তত্ত্বীয়)",
+    "subjectCode": "কোডঃ১২৬",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "২৩/০২/২০১৯, শনিবার",
+    "category1": "science",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "ভূগোল ও পরিবেশ",
+    "subjectCode": "কোডঃ১১০",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "২৪/০২/২০১৯, রবিবার",
+    "category1": "arts",
+    "photo": "menu_item_image"
+  },
+  {
+    "subjectName": "হিসাব বিজ্ঞান",
+    "subjectCode": "কোডঃ১৪৬",
+    "time": "সকাল ১০টা হতে বেলা ১টা পর্যন্ত",
+    "date": "২৫/০২/২০১৯, সোমবার",
+    "category1": "commerce",
+    "photo": "menu_item_image"
+  }
+]

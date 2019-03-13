@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/menu_item_card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    card_view:cardBackgroundColor="#FFF"
+    card_view:cardCornerRadius="8dp"
+    card_view:cardElevation="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+
+        <ImageView
+            android:id="@+id/menu_item_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true" />
+
+        <TextView
+            android:id="@+id/menu_item_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/menu_item_image"
+            android:textSize="20sp"
+            android:text="firstText"
+            android:textStyle="bold"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/menu_item_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:layout_below="@+id/menu_item_name"
+            android:layout_toRightOf="@+id/menu_item_image"
+            android:text="secondText1"/>
+
+        <TextView
+            android:id="@+id/menu_item_category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:layout_below="@+id/menu_item_name"
+            android:layout_toRightOf="@+id/menu_item_price"
+            android:text="secondText2"/>
+
+        <TextView
+            android:id="@+id/menu_item_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:layout_below="@+id/menu_item_price"
+            android:layout_toRightOf="@+id/menu_item_image"
+            android:layout_marginBottom="8dp"
+            android:text="thirdText"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

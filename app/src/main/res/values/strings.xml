@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">রুটিন/রেসাল্ট BD ২০১৯</string>
+    <string name="gridOne">এস এস সি রুটিন</string>
+    <string name="gridTwo">এইচ এস সি রুটিন</string>
+    <string name="gridThree">রেসাল্ট</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+
+</resources>
